@@ -550,7 +550,7 @@ progress {
 
 table {
   width: 1250px;
-  border-collapse: separate;
+  border-collapse: collapse;
 }
 th, td {
   width: 200px;
